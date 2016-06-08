@@ -8,6 +8,7 @@ output: github_document
 ## Webinars
 
 - [Getting started with R Markdown](https://www.rstudio.com/resources/webinars/getting-started-with-r-markdown/)
+- [Introduction to R Markdown](https://www.youtube.com/watch?v=-apyD5f9nwg)
 - [Reproducible reporting](https://www.rstudio.com/resources/webinars/reproducible-reporting/)
 - [The Ecosystem of R Markdown](https://www.rstudio.com/resources/webinars/the-ecosystem-of-r-markdown/)
 
@@ -15,6 +16,7 @@ output: github_document
 
 - [Quick Tour](http://rmarkdown.rstudio.com/authoring_quick_tour.html)
 - [Markdown tutorial](http://www.markdowntutorial.com/) allows to try Markdown interactive.
+- [Tutorial R Markdown](http://www.jacolienvanrij.com/Tutorials/tutorialMarkdown.html)
 
 ## Handy references
 
