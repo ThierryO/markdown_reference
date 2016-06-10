@@ -1,0 +1,20 @@
+---
+title: "Tris and tricks for using RMarkdown"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE
+)
+```
+
+# Chunks
+
+# Figures
+
+## Created within the document
+
+## Externally created
+
+# Tables
